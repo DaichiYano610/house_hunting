@@ -1,6 +1,6 @@
 import math
 
-def calc_distance(lat1,lon1,lat2,lon2):
+def calc_distance(lat1: float,lon1: float,lat2: float,lon2: float)-> float:
     R = 6371
     distance = R * math.acos(
         math.sin(math.radians(lat1))*
