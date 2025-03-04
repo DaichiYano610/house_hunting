@@ -1,6 +1,6 @@
 # 指定距離内の物件検索アプリ
-![Image](https://github.com/user-attachments/assets/12da2b16-a0ff-4b3d-ab42-4dcb89c5f3a0)  
-python3.11.9  
+python3.11.9<br><br>
+<img src="https://github.com/user-attachments/assets/12da2b16-a0ff-4b3d-ab42-4dcb89c5f3a0" width="30%">
 
 ## 仮想環境の実行
 ```
