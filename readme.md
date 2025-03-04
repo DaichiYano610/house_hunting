@@ -1,4 +1,5 @@
 # 指定距離内の物件検索アプリ
+![Image](https://github.com/user-attachments/assets/12da2b16-a0ff-4b3d-ab42-4dcb89c5f3a0)  
 python3.11.9  
 
 ## 仮想環境の実行
@@ -13,7 +14,7 @@ pip install -r requirements.txt
 ```
 ### 使用するライブラリ
 fastAPI  
-beautifulsoup  
+beautifulsoup4
 etc..  
 requirements.txt 参照
 
