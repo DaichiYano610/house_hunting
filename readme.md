@@ -30,7 +30,7 @@ uvicorn main:app --port 8000 --reload
 ## 各ファイルの説明
 ### main.py
 fastAPIを用いたエンドポイント
-### data_sercch.py
+### data_serch.py
 スクレイピングを実行し、物件情報のデータを作成する。  
 **address_to_latlng.py** ファイルの関数を使用しており、住所から緯度経度を取得する。  
 データは**data**フォルダに出力される。  
